@@ -3,9 +3,9 @@ layout: post
 title: Meta-Analysis of Research - David O 
 ---
 
-#Iris Lab Blog Post 
-##David Orloff
-###Due 10/22/20
+# Meta-Analysis Research Post 
+## David Orloff
+### Due 10/22/20
 
 **1. Find a scientific study / research paper of your choice.*    
 [Eviction Lab](https://evictionlab.org/)  
