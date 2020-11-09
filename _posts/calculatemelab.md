@@ -24,4 +24,4 @@ I had. Once I got everything to work, I realized that all of the answers were in
 However, I realized that when I was subtracting values, I would subtract the second value I  
 popped out of the stack from the first value, instead of subtracting the  
 first value from the second value which was causing all of the answers to be completely  
-incorrect. Although the fix was extremely simple(changing it from a - b to b - a), it made a    significant difference in the results.    
+incorrect. Although the fix was extremely simple(changing it from a - b to b - a),   it made a significant difference in the results.    
