@@ -35,6 +35,5 @@ title: Hospital Lab Lab - David O
     * I think that when cleaning the csv file, it could have been a bit less  
     hard-coded. There is definitely a way to make it so that the program will identify  
     the most common type of "beds per person" in the file and then convert all of the 
-    "beds per person's" to that unit of measurement as well as the beds values without  
-    stating any specific values.  
+    "beds per person's" to that unit of measurement as well as the beds values without stating any specific values.  
    
