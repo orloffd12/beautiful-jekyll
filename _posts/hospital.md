@@ -1,6 +1,6 @@
 ---
 layout: Blog post
-title: Hospital Lab Lab - David O
+title: Hospital Lab - David O
 ---
 
 # HospitalLab Blog Entry
