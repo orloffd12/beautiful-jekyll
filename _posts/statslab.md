@@ -1,6 +1,6 @@
 ---
 layout: Blog post
-title: Postfix Lab - David O 
+title: Descriptive Statistics Lab - David O 
 ---
 
 ### Descriptive Statistics Lab Blog Post  
