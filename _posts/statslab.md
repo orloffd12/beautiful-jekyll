@@ -3,8 +3,8 @@ layout: Blog post
 title: Postfix Lab - David O 
 ---
 
-# Descriptive Statistics Lab Blog Post  
-## David Orloff  
+### Descriptive Statistics Lab Blog Post  
+### David Orloff  
 ### Due 1/31/20  
 
 *Which dataset did you work with?    
